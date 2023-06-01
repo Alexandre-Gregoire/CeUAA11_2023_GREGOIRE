@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CeUAA11_2023_GREGOIRE/1.0.0": {
+        "runtime": {
+          "CeUAA11_2023_GREGOIRE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CeUAA11_2023_GREGOIRE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
